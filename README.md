@@ -1,6 +1,6 @@
 ### Olá eu sou o Lucas 👨🏻‍💻
 
-- 🔭 Atualmete estou trabalhando com MySQL, php, html, css Reactjs em vite
+- 🔭 Atualmete estou trabalhando com MySQL, php, html, css e Reactjs em vite
 - 🌱 Atualmente estou estudando Análise e Desenvolvimento de Sistemas
 
 
